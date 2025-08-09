@@ -11,6 +11,7 @@ Bu proje, bir **Lichess** kullanıcısının oynadığı satranç oyunlarını a
 
 ## 🖼️ Ekran Görüntüsü
 
+![img.png](img.png)
 
 ## 🛠️ Kurulum
 
